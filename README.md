@@ -1,5 +1,5 @@
 {
-    "Version": "1.0",
+    "Version": "8.0",
     "ReleaseNotes": "milaf tajribi",
     "Servers": [
         {
