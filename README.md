@@ -1,6 +1,6 @@
 [
 {
-"ConfigVersion":"2.0",
+"ConfigVersion":"2.1",
 "vmess":"cronoksjsongen"
 
 },
@@ -18,12 +18,12 @@
 {
 "Name":"Đà Nẵng 02 Nền FF",
 "Flag":"sg",
-"vmess":"vless://653854c9-9f7b-460a-b4dd-3d5253fe9c89@dn2.4ghatde.com:80?path=%2F4ghatde.com&security=none&encryption=none&host=dl.kgvn.garenanow.com&type=ws#%F0%9F%87%BB%F0%9F%87%B3%28N%E1%BB%81n+Tiktok%29%C4%90%C3%A0+N%E1%BA%B5ng+02"
+"vmess":"vmess://eyJhZGQiOiIxNjcuMTcyLjgwLjE5OCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiOGRiNzc2NmYtZDg5My00MzBlLTk2ZmItY2NkMjBlNjgxMTQ1LnRnLmhrYWEwLjY2Njg4ODg4Lnh5eiIsImlkIjoiYWUzZTZhYjctMTQ0YS00ZWNjLTk4MWQtNjAzZWE3M2JjOGFmIiwibmV0Ijoid3MiLCJwYXRoIjoiL1RlbGVncmFtOkBoa2FhMCIsInBvcnQiOiI4ODgwIiwicHMiOiJTaW5nYXBvcmUiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0="
 },
 {
 "Name":"Đà Nẵng 02 Nền LQ ",
 "Flag":"sg",
-"vmess":"vless://653854c9-9f7b-460a-b4dd-3d5253fe9c89@dn2.4ghatde.com:80?path=%2F4ghatde.com&security=none&encryption=none&host=dl.kgvn.garenanow.com&type=ws#%F0%9F%87%BB%F0%9F%87%B3%28N%E1%BB%81n+LQ%29%C4%90%C3%A0+N%E1%BA%B5ng+02"
+"vmess":"vmess://eyJhZGQiOiJzdXBlci5hbmh0YWk0Zy5tZSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiZGwua2d2bi5nYXJlbmFub3cuY29tIiwiaWQiOiJkMTdkNzIxMi0yMThkLTRmZmEtODIzMy00YTM1MGQ0YTMxOGIiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjgwIiwicHMiOiJWaeG7h3QgTmFtIC0gMjBUQiBI4bqhbiBWViAgKExRKSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ=="
 },
 {
 "Name":"Smart\/TNT\/SUN No Blocking",
