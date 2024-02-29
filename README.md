@@ -1,6 +1,6 @@
 [
 {
-"ConfigVersion":"2.1",
+"ConfigVersion":"4.0",
 "vmess":"cronoksjsongen"
 
 },
