@@ -1,6 +1,6 @@
 [
 {
-"ConfigVersion":"5.0",
+"ConfigVersion":"5.1",
 "vmess":"cronoksjsongen"
 
 },
@@ -18,7 +18,7 @@
 {
 "Name":"Đà Nẵng 02 Nền FF",
 "Flag":"sg",
-"vmess":"vmess://eyJhZGQiOiIxNjcuMTcyLjgwLjE5OCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiOGRiNzc2NmYtZDg5My00MzBlLTk2ZmItY2NkMjBlNjgxMTQ1LnRnLmhrYWEwLjY2Njg4ODg4Lnh5eiIsImlkIjoiYWUzZTZhYjctMTQ0YS00ZWNjLTk4MWQtNjAzZWE3M2JjOGFmIiwibmV0Ijoid3MiLCJwYXRoIjoiL1RlbGVncmFtOkBoa2FhMCIsInBvcnQiOiI4ODgwIiwicHMiOiJTaW5nYXBvcmUiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0="
+"vmess":"vmess://eyJhZGQiOiIxODAuOTMuMTcyLjE3OCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiZGwua2d2bi5nYXJlbmFub3cuY29tIiwiaWQiOiJkYzJiNDgzNy1kOTI1LTU0MGQtYTNiZi1mNTQwZDY0Mzc3NGUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvYWRkejE4MDMiLCJwb3J0IjoiODAiLCJwcyI6IvCfh7vwn4ezVk4gUFJFTUlVTSBMUSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ=="
 },
 {
 "Name":"Đà Nẵng 02 Nền LQ ",
@@ -39,5 +39,25 @@
 "Name":"Smart\/TNT\/SUN No Blocking",
 "Flag":"sg",
 "vmess":"vmess://eyJhZGQiOiIxMDMuMTU0LjYzLjE1IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJtLnRpa3Rvay5jb20iLCJpZCI6ImRjMmI0ODM3LWQ5MjUtNTQwZC1hM2JmLWY1NDBkNjQzNzc0ZSIsIm5ldCI6IndzIiwicGF0aCI6Ii9hZGR6IiwicG9ydCI6IjgwIiwicHMiOiLwn4e78J+Hs1ZOIE5PNSBUSUtUT0siLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0="
+},
+{
+"Name":"Smart\/TNT\/SUN No Blocking",
+"Flag":"sg",
+"vmess":"vmess://eyJhZGQiOiIxNTcuMTAuNTIuMTMwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJkbC5rZ3ZuLmdhcmVuYW5vdy5jb20iLCJpZCI6ImRjMmI0ODM3LWQ5MjUtNTQwZC1hM2JmLWY1NDBkNjQzNzc0ZSIsIm5ldCI6IndzIiwicGF0aCI6Ii9hZGR6IiwicG9ydCI6IjgwIiwicHMiOiLwn4e78J+Hs1ZJUCAxIExRIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9"
+},
+{
+"Name":"Smart\/TNT\/SUN No Blocking",
+"Flag":"sg",
+"vmess":"vmess://eyJhZGQiOiIxMDMuMTU0LjYzLjE1IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJkbC5rZ3ZuLmdhcmVuYW5vdy5jb20iLCJpZCI6ImRjMmI0ODM3LWQ5MjUtNTQwZC1hM2JmLWY1NDBkNjQzNzc0ZSIsIm5ldCI6IndzIiwicGF0aCI6Ii9hZGR6IiwicG9ydCI6IjgwIiwicHMiOiLwn4e78J+Hs1ZOIE5PNSBMUSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ=="
+},
+{
+"Name":"Smart\/TNT\/SUN No Blocking",
+"Flag":"sg",
+"vmess":"vmess://eyJhZGQiOiIxODAuOTMuMTcyLjE3OCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoibS50aWt0b2suY29tIiwiaWQiOiJkYzJiNDgzNy1kOTI1LTU0MGQtYTNiZi1mNTQwZDY0Mzc3NGUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvYWRkejE4MDMiLCJwb3J0IjoiODAiLCJwcyI6IvCfh7vwn4ezVk4gUFJFTUlVTSBGRiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ=="
+},
+{
+"Name":"Smart\/TNT\/SUN No Blocking",
+"Flag":"sg",
+"vmess":"vmess://eyJhZGQiOiIxNTcuMTAuNTIuMTMwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJtLnRpa3Rvay5jb20iLCJpZCI6ImRjMmI0ODM3LWQ5MjUtNTQwZC1hM2JmLWY1NDBkNjQzNzc0ZSIsIm5ldCI6IndzIiwicGF0aCI6Ii9hZGR6IiwicG9ydCI6IjgwIiwicHMiOiLwn4e78J+Hs1ZJUCAxIEZGIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9"
 }
 ]
