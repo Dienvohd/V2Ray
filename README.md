@@ -1,6 +1,6 @@
 [
 {
-"ConfigVersion":"4.0",
+"ConfigVersion":"5.0",
 "vmess":"cronoksjsongen"
 
 },
@@ -13,7 +13,7 @@
 {
 "Name":"Đà Nẵng Nền LQ",
 "Flag":"sg",
-"vmess":"vmess://eyJhZGQiOiJkbjEuNGdoYXRkZS5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImRsLmtndm4uZ2FyZW5hbm93LmNvbSIsImlkIjoiNjUzODU0YzktOWY3Yi00NjBhLWI0ZGQtM2Q1MjUzZmU5Yzg5IiwibmV0Ijoid3MiLCJwYXRoIjoiLzRnaGF0ZGUuY29tIiwicG9ydCI6IjgwIiwicHMiOiLwn4e78J+HsyhO4buBbiBMUSnEkMOgIE7hurVuZyAwMSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ=="
+"vmess":"vmess://eyJhZGQiOiIxODAuOTMuMTcyLjE3OCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoibS50aWt0b2suY29tIiwiaWQiOiJkYzJiNDgzNy1kOTI1LTU0MGQtYTNiZi1mNTQwZDY0Mzc3NGUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvYWRkejE4MDMiLCJwb3J0IjoiODAiLCJwcyI6IvCfh7vwn4ezVk4gUFJFTUlVTSBUSUtUT0siLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0="
 },
 {
 "Name":"Đà Nẵng 02 Nền FF",
@@ -23,11 +23,21 @@
 {
 "Name":"Đà Nẵng 02 Nền LQ ",
 "Flag":"sg",
-"vmess":"vmess://eyJhZGQiOiJzdXBlci5hbmh0YWk0Zy5tZSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiZGwua2d2bi5nYXJlbmFub3cuY29tIiwiaWQiOiJkMTdkNzIxMi0yMThkLTRmZmEtODIzMy00YTM1MGQ0YTMxOGIiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjgwIiwicHMiOiJWaeG7h3QgTmFtIC0gMjBUQiBI4bqhbiBWViAgKExRKSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ=="
+"vmess":"vmess://eyJhZGQiOiIxNTcuMTAuNTIuMTMwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJtLnRpa3Rvay5jb20iLCJpZCI6ImRjMmI0ODM3LWQ5MjUtNTQwZC1hM2JmLWY1NDBkNjQzNzc0ZSIsIm5ldCI6IndzIiwicGF0aCI6Ii9hZGR6IiwicG9ydCI6IjgwIiwicHMiOiLwn4e78J+Hs1ZJUCAxIFRJS1RPSyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ=="
 },
 {
 "Name":"Smart\/TNT\/SUN No Blocking",
 "Flag":"sg",
-"vmess":"vmess:\/\/eyJhZGQiOiIwMDAwOjAwMDA6MDAwMDowMDAwOjAwMDA6ZmZmZjo2ODE0OmI4NDQiLCJhaWQiOiI2NCIsImhvc3QiOiJ3d3cudGhpcmR5LXZwbi5tbCIsImlkIjoiYWYxMTJiNTYtNDk3My03YzZiLTE1OTMtN2QzZDg5MTM0MGYxIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI0NDMiLCJwcyI6IlNtYXJ0L1ROVC9TVU4gTm8gQmxvY2tpbmciLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0="
+"vmess":"vmess://eyJhZGQiOiIxMDMuMTU0LjYzLjE1IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJtLnRpa3Rvay5jb20iLCJpZCI6ImRjMmI0ODM3LWQ5MjUtNTQwZC1hM2JmLWY1NDBkNjQzNzc0ZSIsIm5ldCI6IndzIiwicGF0aCI6Ii9hZGR6IiwicG9ydCI6IjgwIiwicHMiOiLwn4e78J+Hs1ZOIE5PNSBUSUtUT0siLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0="
+},
+{
+"Name":"Smart\/TNT\/SUN No Blocking",
+"Flag":"sg",
+"vmess":"vmess://eyJhZGQiOiJkbjEuNGdoYXRkZS5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Im0udGlrdG9rLmNvbSIsImlkIjoiNjUzODU0YzktOWY3Yi00NjBhLWI0ZGQtM2Q1MjUzZmU5Yzg5IiwibmV0Ijoid3MiLCJwYXRoIjoiLzRnaGF0ZGUuY29tIiwicG9ydCI6IjgwIiwicHMiOiLwn4e78J+HsyhO4buBbiBUaWt0b2spxJDDoCBO4bq1bmcgMDEiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0="
+},
+{
+"Name":"Smart\/TNT\/SUN No Blocking",
+"Flag":"sg",
+"vmess":"vmess://eyJhZGQiOiIxMDMuMTU0LjYzLjE1IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJtLnRpa3Rvay5jb20iLCJpZCI6ImRjMmI0ODM3LWQ5MjUtNTQwZC1hM2JmLWY1NDBkNjQzNzc0ZSIsIm5ldCI6IndzIiwicGF0aCI6Ii9hZGR6IiwicG9ydCI6IjgwIiwicHMiOiLwn4e78J+Hs1ZOIE5PNSBUSUtUT0siLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0="
 }
 ]
